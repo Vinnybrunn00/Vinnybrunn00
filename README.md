@@ -2,8 +2,8 @@
 
 <div align="left">
   <a href="https://instagram.com/vinnybrunn00">
-  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=vinnybrunn00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="192em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnybrunn00&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=vinnybrunn00&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="192em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnybrunn00&layout=compact&langs_count=7&theme=react"/>
 </div>
   
 ##
