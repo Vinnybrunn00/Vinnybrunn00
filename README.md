@@ -2,7 +2,7 @@
 <a href="https://instagram.com/vinnybrunn00">
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnybrunn00&layout=compact&langs_count=7&theme=react"/>
 </div>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
   <div align="center">
     
 <a href="https://docs.python.org/3/">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=black)
