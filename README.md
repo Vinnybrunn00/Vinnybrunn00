@@ -1,7 +1,6 @@
 <div align="center">
 <a href="https://instagram.com/vinnybrunn00">
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnybrunn00&layout=compact&theme=dracula"/>
-</div>
 
 <a href="https://docs.python.org/3/">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=black)
 <a href="https://devdocs.io/bash/">![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=cyan)
