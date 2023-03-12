@@ -1,6 +1,6 @@
-# Hellow, I am [Vinícius Bruno]()
+# Hellow, I am [Vinícius Bruno](https://instagram.com/vinnybrunn00) 👋
 
-## About me
+## About me 👨🏻‍💻
 
 ```python
 class Me:
