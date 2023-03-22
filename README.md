@@ -50,16 +50,15 @@ if __name__ == "__main__":
 <a href="https://devdocs.io/javascript/"> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <a href="https://devdocs.io/perl/"> ![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=cyan)
   </div>
-  
-
-
+    
+    
 ## Top projects
 
 <p align="center">
     <a href="https://github.com/Vinnybrunn00/Linset_Evil_Twin_Attack"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinnybrunn00&repo=Linset_Evil_Twin_Attack&theme=cobalt" alt="ipc-python"></a>
    <a href="https://github.com/Vinnybrunn00/Whatsapp_Sticker_Bot"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinnybrunn00&repo=Whatsapp_Sticker_Bot&theme=cobalt" alt="DevFinder"></a>
    <a href="https://github.com/Vinnybrunn00/Bot-Telegram-All-Functions"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinnybrunn00&repo=Bot-Telegram-All-Functions&theme=cobalt" alt="pchunter"></a>
-   <a href="https://github.com/Vinnybrunn00/whatsapp_discover"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinnybrunn00&repo=whatsapp_discover&theme=cobalt" alt="pchunter"></a>
+   <a href="https://github.com/Vinnybrunn00/App_ChatGPT"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinnybrunn00&repo=App_ChatGPT&theme=cobalt" alt="pchunter"></a>
 
 </p>
 
