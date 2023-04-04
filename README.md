@@ -64,7 +64,7 @@ if __name__ == "__main__":
 
 ## Social media
 
-<div align="left">
+<div align="center">
   <a href="https://instagram.com/vinnybrunn00" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/Vinnybrunn00" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   <a href="https://open.spotify.com/user/5cuqma0170zaestki4kbc1ilp?si=bf30147a1b2a4978" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
