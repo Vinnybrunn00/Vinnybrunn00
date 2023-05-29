@@ -1,15 +1,23 @@
-## Top language
+## Hello, I'm Vinícius Bruno 👋
+ 🤖 I've been a programmer since 2021, I started with python and I study and learn other languages.
+
+- 🧑‍💼 I work as a freelancer at [upwork](https://www.upwork.com/)
+- 🧑‍💻 I'm part of some bug bounty systems at [Hackeone](https://www.hackerone.com/)  
+- 📚 Currently studying and teaching some languages like javascript, C++ and Dart/Flutter
+
+### 💡 Knowledge languages:
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,nodejs,bash,cpp,flutter,dart,java&theme=dark)](https://skillicons.dev)
+
+### 🔷 Others:
+[![My Skills2](https://skillicons.dev/icons?i=github,gitlab,linux&theme=dark)](https://skillicons.dev)
+
+
+## Top Language
 
 <div align="center">
 <img height="250rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnybrunn00&layout=compact&theme=cobalt"/>
 
-<a href="https://devdocs.io/bash/">![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=40f872)
-<a href="https://devdocs.io/javascript/"> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-<a href="https://docs.python.org/3/">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=black)
-<a href="https://dart.dev/tools/dart-doc">![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-<a href="https://dart.dev/tools/dart-doc">![Dart](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-## Top projects
+## Top Projects
 
 <p align="center">
     <a href="https://github.com/Vinnybrunn00/Linset_Evil_Twin_Attack"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinnybrunn00&repo=Linset_Evil_Twin_Attack&theme=cobalt" alt="ipc-python"></a>
