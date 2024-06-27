@@ -21,7 +21,7 @@
 
 <p align="center">
     <a href="https://github.com/Vinnybrunn00/whatsapp-sticker-bot"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinnybrunn00&repo=whatsapp-sticker-bot&theme=cobalt" alt="ipc-python"></a>
-    <a href="https://github.com/Vinnybrunn00/App_ChatGPT"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinnybrunn00&repo=App_ChatGPT&theme=cobalt" alt="pchunter"></a>
+    <a href="https://github.com/Vinnybrunn00/app_system_monitor2"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinnybrunn00&repo=app_system_monitor2&theme=cobalt" alt="pchunter"></a>
    <a href="https://github.com/Vinnybrunn00/Wifi_Chrome_Opera_Mailer"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinnybrunn00&repo=Wifi_Chrome_Opera_Mailer&theme=cobalt" alt="DevFinder"></a>
    <a href="https://github.com/Vinnybrunn00/Bot-Telegram-All-Functions"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinnybrunn00&repo=Bot-Telegram-All-Functions&theme=cobalt" alt="pchunter"></a>
 
