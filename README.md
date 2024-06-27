@@ -6,10 +6,10 @@
 - 📚 Currently studying and teaching some languages like javascript, C++ and Dart/Flutter
 
 ### 💡 Knowledge languages:
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,nodejs,bash,cpp,flutter,dart,java&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,nodejs,bash,cpp,flutter,dart&theme=dark)](https://skillicons.dev)
 
 ### 🔷 Others:
-[![My Skills2](https://skillicons.dev/icons?i=github,gitlab,linux&theme=dark)](https://skillicons.dev)
+[![My Skills2](https://skillicons.dev/icons?i=github,linux&theme=dark)](https://skillicons.dev)
 
 
 ## Top Language
