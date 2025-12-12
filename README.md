@@ -14,24 +14,27 @@ I believe technology is about **solving problems**, not just writing code.
 
 ---
 
-### 💡 Knowledge languages:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,python,nodejs,cpp,&theme=dark)](https://skillicons.dev)
+### 💡 Languages & Tools
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,python,nodejs,cpp&theme=dark)](https://skillicons.dev)
 
 ---
 
 <div align="center">
-  <img height="250rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnybrunn00&layout=compact&theme=cobalt"/>
+
+### 📊 Top Languages  
+<img height="320" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=vinnybrunn00&layout=compact&theme=cobalt" alt="Top Languages"/>
+
 </div>
 
 ---
 
 <div align="center">
 
-### 🔥 GitHub Activity & Performance
-<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=vinnybrunn00&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+### 🔥 GitHub Activity & Performance  
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=vinnybrunn00&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
-### ⚔️ Streaks (consecutive contribution days)
-<img height="180rem" src="https://streak-stats.demolab.com?user=vinnybrunn00&theme=cobalt&hide_border=false"/>
+### ⚔️ Streaks (consecutive contribution days)  
+<img height="180" src="https://streak-stats.vercel.app/?user=vinnybrunn00&theme=cobalt" alt="GitHub Streak Stats"/>
 
 </div>
 
@@ -45,6 +48,7 @@ I believe technology is about **solving problems**, not just writing code.
 - Automations and intelligent scripts  
 - Internal tools for companies  
 - Technical support, backups, and maintenance  
+
 ---
 
 ## 🎯 Current Goals
@@ -53,4 +57,3 @@ I believe technology is about **solving problems**, not just writing code.
 - Build projects with solid architecture  
 - Master animations and advanced UI in Flutter  
 - Contribute to open source projects  
----
