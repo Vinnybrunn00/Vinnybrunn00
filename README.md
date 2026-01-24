@@ -15,7 +15,7 @@ I believe technology is about **solving problems**, not just writing code.
 ---
 
 ### 💡 Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,python,nodejs,cpp&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,python,nodejs,cpp,typescript&theme=dark)](https://skillicons.dev)
 
 ---
 
