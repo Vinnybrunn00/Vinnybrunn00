@@ -22,7 +22,7 @@ I believe technology is about **solving problems**, not just writing code.
 <div align="center">
 
 ### 📊 Top Languages  
-<img height="320" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=vinnybrunn00&layout=compact&theme=cobalt" alt="Top Languages"/>
+<img height="450" width="450" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=vinnybrunn00&layout=compact&theme=cobalt" alt="Top Languages"/>
 
 </div>
 
@@ -31,10 +31,10 @@ I believe technology is about **solving problems**, not just writing code.
 <div align="center">
 
 ### 🔥 GitHub Activity & Performance  
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=vinnybrunn00&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="550" width="550" src="https://github-readme-stats-fast.vercel.app/api?username=vinnybrunn00&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
 ### ⚔️ Streaks (consecutive contribution days)  
-<img height="180" src="https://streak-stats.vercel.app/?user=vinnybrunn00&theme=cobalt" alt="GitHub Streak Stats"/>
+<img height="550" width="550" src="https://streak-stats.vercel.app/?user=vinnybrunn00&theme=cobalt" alt="GitHub Streak Stats"/>
 
 </div>
 
